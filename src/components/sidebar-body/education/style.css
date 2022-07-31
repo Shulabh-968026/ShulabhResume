@@ -1,0 +1,21 @@
+.education{
+    display: flex;
+    flex-direction: column;
+}
+
+.education-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+    flex-wrap: wrap;
+}
+
+.education-subsection p{
+    margin: 0%;
+    margin-left: 10px;
+}
+.education-subsection p{
+    font-size: 20px;
+    color: black;
+}

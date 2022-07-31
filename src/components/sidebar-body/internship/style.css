@@ -1,0 +1,20 @@
+.internship{
+    display: flex;
+    flex-direction: column;
+}
+
+.internship-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+    flex-wrap: wrap;
+}
+
+.internship-subsection p{
+    margin: 0%;
+}
+.internship-subsection p{
+    font-size: 20px;
+    color: black;
+}
