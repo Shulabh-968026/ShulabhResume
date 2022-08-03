@@ -18,7 +18,7 @@ function Profile() {
                 <i className="fa-brands fa-github"></i> : https://github.com/Shulabh-968026
             </a>
             <a href='https://www.linkedin.com/in/shulabh-dixit-143152177/'>
-                <i class="fa-brands fa-linkedin"></i> : https://www.linkedin.com/in/shulabh-dixit-143152177/
+                <i className="fa-brands fa-linkedin"></i> : https://www.linkedin.com/in/shulabh-dixit-143152177/
             </a>
         </div>
     </div>

@@ -8,19 +8,17 @@
 
 .App{
   width: 100vw;
-  overflow-x: hidden;
   display: flex;
+  overflow-x: hidden;
 }
 
 .sidebar{
   width: 19%;
   background-color: chocolate;
-  overflow-x: hidden;
 }
 
 .sidebar-body{
   width: 81%;
-  overflow-x: hidden;
   background-color: darkcyan;
 }
 
@@ -28,7 +26,6 @@
 @media (max-width:768px) {
   .App{
     height: auto;
-    padding: 5px;
   }
   .sidebar{
     display: none;

@@ -57,6 +57,11 @@
     color: black; 
 }
 
+.card-body p{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 3px;
+}
 @media(max-width:768px){
     .header{
         margin-bottom: 4px;

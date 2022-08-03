@@ -20,6 +20,7 @@
 .profile-name{
     text-transform: uppercase;
     margin-top: 10px;
+    font-weight: bold;
 }
 
 .navbar{
@@ -38,7 +39,7 @@
     display: block;
     padding: 5px 15px;
     text-decoration: none;
-    color: white;
+    color:white;
     font-size: 25px;
     text-transform: uppercase;
     font-weight: bold;
